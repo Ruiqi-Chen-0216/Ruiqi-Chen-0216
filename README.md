@@ -1,4 +1,4 @@
-## I am enthusiastically pursuing a PhD position in CS starting from 2026 fall!
+## I am actively looking for industry research internship opportunities in Summer 2026!
 
 Hi there 👋
 
