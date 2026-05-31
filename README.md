@@ -6,4 +6,3 @@ I am Ruiqi Chen, an incoming Ph.D. student in [Computer Science and Engineering]
 
 My research focuses on building and evaluating AI models and systems that align with human knowledge, goals, and values. More broadly, I am interested in how AI systems can better understand what people know, need, and care about, from agentic data systems and multimodal benchmarks to embodied and human-AI applications.
 
-#![Metrics](/github-metrics.svg)
